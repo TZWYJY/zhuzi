@@ -1,7 +1,7 @@
 ---
 title: Zhu Yuan
 role: PhD student in physics@HKU
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: PhD student in physics@HKU
 interests:
   - Nanophotonics
