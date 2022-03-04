@@ -34,7 +34,7 @@ image:
     Photonics**](https://doi.org/10.1021/acsphotonics.0c00981)"
   focal_point: ""
   preview_only: false
-  filename: acs-photonics.gif
+  filename: featured.gif
 summary: ""
 url_dataset: ""
 url_project: ""
