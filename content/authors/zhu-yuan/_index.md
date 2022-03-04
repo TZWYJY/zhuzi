@@ -1,6 +1,6 @@
 ---
 title: Zhu Yuan
-role: Student of Physics
+role: PhD student in physics@HKU
 avatar_filename: avatar.jpg
 bio: PhD student in physics@HKU
 interests:
