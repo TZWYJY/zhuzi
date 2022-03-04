@@ -2,11 +2,11 @@
 title: Zhu Yuan
 role: Student of Physics
 avatar_filename: avatar.jpg
-bio: student of physics
+bio: PhD student in physics@HKU
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nanophotonics
+  - Metamaterials
+  - Topological photonics
 social:
   - icon: envelope
     icon_pack: fas
