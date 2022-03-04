@@ -43,7 +43,7 @@ url_video: ""
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: ""
+doi: https://doi.org/10.1021/acsphotonics.0c00981
 publication: In ACS Photonics
 projects:
   - example
