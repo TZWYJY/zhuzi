@@ -3,7 +3,7 @@ widget: contact
 widget_id: RECENT-POSTS
 headless: true
 weight: 130
-title: Contact2
+title: Contact
 subtitle: null
 content:
   form:
