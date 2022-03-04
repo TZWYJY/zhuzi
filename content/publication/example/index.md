@@ -30,7 +30,8 @@ tags: []
 slides: example
 url_pdf: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**ACS
+    Photonics**](https://doi.org/10.1021/acsphotonics.0c00981)"
   focal_point: ""
   preview_only: false
   filename: acs-photonics.gif
