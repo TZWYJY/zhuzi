@@ -29,7 +29,7 @@ education:
       institution: Huazhong University of Science and Technology
       year: 2021
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 Zhu Yuan is a PhD student on nanophotonics at The Univerisity of Hong Kong. His research interests include new physics and applications enabled by nanophotonics.
