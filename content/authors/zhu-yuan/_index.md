@@ -32,6 +32,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zhu Yuan is a student of nanophotonics at The Univerisity of Hong Kong. His research interests include new physics and applications enabled by nanophotonics.
+Zhu Yuan is a PhD student on nanophotonics at The Univerisity of Hong Kong. His research interests include new physics and applications enabled by nanophotonics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
