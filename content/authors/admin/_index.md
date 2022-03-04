@@ -1,7 +1,7 @@
 ---
 title: Zhu Yuan
 role: Student of Physics
-avatar_filename: ""
+avatar_filename: 新生杯辩论赛半决赛留念头像.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
